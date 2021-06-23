@@ -85,12 +85,12 @@ Dan berikut ini:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-ASTRAKOBOT_IMG = "https://i.ibb.co/mSC0msg/IMG-20210418-023743-504.jpg"
+ASTRAKOBOT_IMG = "https://telegra.ph/file/b08a7a027d6f782953b98.jpg"
 
 DONATE_STRING = """Silahkan Donasi Ke sini 
 biar gw bisa update sistem bot nya lagi ya asu.. 
 kalau ga mau donasi dahlah kalau error gausah ngeluh kontol. 
-user gratisan gausah sok keras; [RAMA](https://t.me/Untelee), or [SUBS MY CH](https://t.me/peyyproject)."""
+user gratisan gausah sok keras; [PEYY](https://t.me/Untelee), or [SUBS MY CH](https://t.me/peyyproject)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
