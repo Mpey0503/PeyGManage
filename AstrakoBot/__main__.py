@@ -54,15 +54,15 @@ PM_START_TEXT = """
 
 Hi {}, Perkenalkan,nama saya {}!
 Saya adalah robot yang bisa membantumu memanage grup kamu. 
-Cepat Undang aku ke grup mu, Supaya aku bisa memberantas para penjahat.
+Cepat Undang aku ke grup mu, Supaya aku bisa memberantas para jamet telegram.
 Aku di buat khusus Untuk membantu kalian,mengusir para jamet telegram yang meresahkan!😋.
-Aku hanya robot tapi Aku juga bisa Galau, jangan Sakiti aku ya mas!!
+Aku hanya robot tapi Aku juga bisa di ajak slipkol, emmmmm
 ━─━─━─━─━─━─━─━─━─━─━
 
-▪**USERNAME KU ADALAH :** [GOKU](http://t.me/goku_rbot)
+▪** My Master :** [Mr.Pey](http://t.me/Umtelee)
 
 ━─━─━─━─━─━─━─━─━─━─━
-Tekan /help untuk melihat daftar fitur saya.
+Tap /help untuk melihat daftar fitur saya.
 """
 
 HELP_STRINGS = """
@@ -90,7 +90,7 @@ ASTRAKOBOT_IMG = "https://i.ibb.co/mSC0msg/IMG-20210418-023743-504.jpg"
 DONATE_STRING = """Silahkan Donasi Ke sini 
 biar gw bisa update sistem bot nya lagi ya asu.. 
 kalau ga mau donasi dahlah kalau error gausah ngeluh kontol. 
-user gratisan gausah sok keras; [RAMA](https://t.me/Ramadhaniiiiiii1), or [SUBS MY CH](https://t.me/Candu_musikk)."""
+user gratisan gausah sok keras; [RAMA](https://t.me/Untelee), or [SUBS MY CH](https://t.me/peyyproject)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -208,14 +208,14 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="🤖 Add Saya ke group",
+                            text="🤖 Tambahin Gua Ke Group Lu",
                             url="t.me/{}?startgroup=true".format(
                                 context.bot.username))
                     ],
                      [
                          InlineKeyboardButton(
-                             text="👥 TR Grup 👥",
-                             url=f"https://t.me/teman_random"),
+                             text="💫Ch Story💫",
+                             url=f"https://t.me/rndmsjyaa"),
                      
                          InlineKeyboardButton(
                              text="🍭 Help & Command 🍭",
@@ -223,8 +223,8 @@ def start(update: Update, context: CallbackContext):
                      ],
                      [  
                          InlineKeyboardButton(
-                             text="✨ CHANNEL ✨",
-                             url="https://t.me/ramubotinfo")
+                             text="✨ CHANNEL BOT✨",
+                             url="https://t.me/peyyproject")
                      ]]))
     else:
         update.effective_message.reply_text(
