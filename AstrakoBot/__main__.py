@@ -59,7 +59,7 @@ Aku di buat khusus Untuk membantu kalian,mengusir para jamet telegram yang meres
 Aku hanya robot tapi Aku juga bisa di ajak slipkol, emmmmm
 ━─━─━─━─━─━─━─━─━─━─━
 
-▪** My Master :** [Mr.Pey](http://t.me/Umtelee)
+▪** My Master :** [Mr.Pey](http://t.me/Untelee)
 
 ━─━─━─━─━─━─━─━─━─━─━
 Tap /help untuk melihat daftar fitur saya.
