@@ -1,4 +1,4 @@
-<h2 align="center"><b>BOTMANAGE: <a href="https://telegram.dog/mixiologist">MR.PEYY</a></b></h2>
+<h2 align="center"><b>BOTMANAGE: <a href="https://t.me/PeyGmanageBot">MR.PEYY</a></b></h2>
 <br>
 <p align="center">
    <a href="https://github.com/Mpey0503/PeyGManage">
